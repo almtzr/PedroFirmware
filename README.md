@@ -199,4 +199,4 @@ Connect the pins of the Pedro Robots transmitter and receiver as following:
 
 ---
 
-[Arduino logs library](https://downloads.arduino.cc/libraries/logs/github.com/almtzr/PedroRobot/)
+[Arduino logs library](https://downloads.arduino.cc/libraries/logs/github.com/almtzr/PedroFirmware/)
